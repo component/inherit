@@ -9,6 +9,8 @@
 $ component install component/inherit
 ```
 
+## Example
+
 ```js
 var inherit = require('inherit');
 
