@@ -1,8 +1,12 @@
 {
-  "name": "inherit",
+  "name": "inherit-component",
+  "description": "Prototype inheritance utility",
   "version": "0.0.1",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+  "keywords": ["inherit", "utility"],
+  "dependencies": {},
+  "component": {
+    "scripts": {
+      "inherit/inherit.js": "index.js"
+    }
   }
 }
