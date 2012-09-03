@@ -6,7 +6,7 @@
   "dependencies": {},
   "component": {
     "scripts": {
-      "inherit/inherit.js": "index.js"
+      "inherit/index.js": "index.js"
     }
   }
 }
