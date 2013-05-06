@@ -16,7 +16,7 @@ var inherit = require('inherit');
 function Animal() {}
 function Pet() {}
 
-inherit(Pet, Animal   );
+inherit(Pet, Animal);
 ```
 
 ## License
