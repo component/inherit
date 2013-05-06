@@ -1,4 +1,3 @@
-
 # inherit
 
   Prototype inheritance utility.
@@ -17,7 +16,7 @@ var inherit = require('inherit');
 function Animal() {}
 function Pet() {}
 
-inherit(Animal, Pet);
+inherit(Pet, Animal   );
 ```
 
 ## License
