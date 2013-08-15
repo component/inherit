@@ -13,10 +13,10 @@ $ component install component/inherit
 ```js
 var inherit = require('inherit');
 
-function Animal() {}
-function Pet() {}
+function Human() {}
+function Woman() {}
 
-inherit(Pet, Animal);
+inherit(Woman, Human);
 ```
 
 ## License
