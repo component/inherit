@@ -2,11 +2,18 @@
   "name": "inherit-component",
   "description": "Prototype inheritance utility",
   "version": "0.0.2",
-  "keywords": ["inherit", "utility"],
+  "keywords": [
+    "inherit",
+    "utility"
+  ],
   "dependencies": {},
   "component": {
     "scripts": {
       "inherit/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/inherit.git"
   }
 }
