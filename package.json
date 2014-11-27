@@ -1,7 +1,7 @@
 {
   "name": "component-inherit",
   "description": "Prototype inheritance utility",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": [
     "inherit",
     "utility"
