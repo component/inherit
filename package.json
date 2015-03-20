@@ -2,6 +2,7 @@
   "name": "component-inherit",
   "description": "Prototype inheritance utility",
   "version": "0.0.3",
+  "license": "MIT",
   "keywords": [
     "inherit",
     "utility"
